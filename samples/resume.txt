@@ -1,0 +1,23 @@
+Priya Sharma
+Bengaluru, India | priya.sharma@example.com | +91 98765 43210 | linkedin.com/in/priyasharma | github.com/priyasharma
+
+Summary
+Backend engineer with 6 years of experience building Python microservices and REST APIs on AWS.
+
+Experience
+Senior Software Engineer, Acme Payments (2021 - Present)
+- Led migration of a monolith to 14 FastAPI microservices on Kubernetes, cutting deploy time by 70%.
+- Built a Kafka-based event pipeline processing 2M transactions per day with 99.95% uptime.
+- Reduced PostgreSQL query latency by 45% through indexing and Redis caching.
+- Mentored 4 junior engineers and ran weekly design reviews.
+
+Software Engineer, DataWorks (2018 - 2021)
+- Developed Django REST APIs used by 300k monthly users.
+- Responsible for CI/CD pipelines with GitHub Actions and Docker.
+- Worked on AWS Lambda and S3 data ingestion jobs.
+
+Skills
+Python, FastAPI, Django, PostgreSQL, Redis, Kafka, Docker, Kubernetes, AWS, GitHub Actions, pytest
+
+Education
+B.Tech in Computer Science, VIT University (2018)
